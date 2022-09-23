@@ -1,0 +1,6 @@
+name: Synchroboard
+version: '0.1.0'
+main: me.shadowalzazel.synchroboard.Synchroboard
+api-version: 1.19
+authors: [ShadowAlzazel]
+description: A synchronizer server web plugin!
